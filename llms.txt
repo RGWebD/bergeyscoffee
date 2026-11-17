@@ -1,0 +1,46 @@
+# Bergeys Coffee Co.
+
+> Family-run coffee trailer in Venice, Florida, owned by husband-and-wife duo Jason and Mia Bergeron. Brewing up sunshine in Venice since 2023. Serves espresso drinks, chai, matcha, iced teas and house-made syrups, proudly serving Bergeron Roasters coffee. Rated 5.0 stars from 212 Google reviews.
+
+## Key facts
+- Name: Bergeys Coffee Co. (Google category: Coffee stand)
+- Address: 1600 Banyan Dr, Venice, FL 34293, USA (corner of U.S. 41 Bypass and Center Rd)
+- Phone: (941) 599-1964
+- Email: bergeyscoffeeco@gmail.com
+- Hours: Monday–Saturday 7:00 AM–4:00 PM; Sunday closed
+- Price range: $
+- Owners: Jason and Mia Bergeron
+- Founded: 2023
+- Amenities: outdoor seating, wheelchair-accessible entrance and parking lot
+- Coffee: Bergeron Roasters (sister roastery) — online store https://bergeron-roasters.square.site/
+- Instagram: https://www.instagram.com/bergeyscoffeeco/
+- Facebook: https://www.facebook.com/p/Bergeys-Coffee-Co-100095026822387/
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Bergeys+Coffee+Co.&query_place_id=ChIJv5s5R1Gmha4RB5hW4ZKPujY
+
+## Pages
+- [Home, menu, reviews, visit info](https://rgwebd.github.io/bergeyscoffee/): story, full drink menu, gallery, Google reviews, hours and map
+- [Shop](https://rgwebd.github.io/bergeyscoffee/shop.html): every Bergeron Roasters coffee on the Square store with prices and links
+- [Catering](https://rgwebd.github.io/bergeyscoffee/catering.html): Espresso Bar Package for weddings & events from $600, custom latte art
+
+## Menu (drink prices are posted at the trailer)
+- Coffee: Espresso, Macchiato, Cortado, Cappuccino, Latte, Americano, Brewed Coffee, Cold Brew
+- Drinks: Chai, Matcha, Hot or Iced Chocolate, Lemonade
+- Iced Teas: Hibiscus Berry, Lemon Ginseng, English Breakfast
+- Seasonal syrups (fall): Pumpkin Spice, Sea Salt Maple
+- Beans at the trailer: 1 lb $20, 5 lbs $100
+- Dairy-free milk options available
+
+## Shop: Bergeron Roasters coffee (1 lb, $20 each; grind: coarse, medium, fine or whole bean)
+- [Bergey's Espresso Blend](https://bergeron-roasters.square.site/product/bergey-s-espresso-blend-1lb/7TUFL2IGF7J436SSFGVEGRHB): $20.00 — notes: Chocolate, cocoa and baker's chocolate
+- [Banyan Blend](https://bergeron-roasters.square.site/product/banyan-blend-1lb/NH3LYSQFJAIXHBJD7FCAUPXV): $20.00 — notes: Chocolate, Grapefruit
+- [Costa Rica Tarrazu La Pastora](https://bergeron-roasters.square.site/product/costa-rica-tarrazu-la-pastora-1lb/LQSFVW6FQVFFN54UVE6ALPYS): $20.00 — notes: Milk Chocolate and Citrus
+- [Peruvian Nightcap: Decaffeinated](https://bergeron-roasters.square.site/product/peruvian-nightcap-decaffeinated-1lb/3): $20.00 — notes: Chocolate, caramel and molasses
+- [Organic Honduras COMSA](https://bergeron-roasters.square.site/product/organic-honduras-comsa-1lb/6XXLU5ZIPRY27FCFWFJVITKQ): $20.00 — notes: Red Apple, Brown Sugar
+- [Indian Monsoon Malabar](https://bergeron-roasters.square.site/product/indian-monsoon-malabar-1lb/GXSUICFTU7YKEQIJFR3DVBDV): $20.00 — notes: Cocoa
+- [Ethiopian Guji](https://bergeron-roasters.square.site/product/ethiopian-guji-1lb/32RXYOSTIFVSTZXNVX4MBT5D): $20.00 — notes: Bakers chocolate and strawberry
+- [Organic Nicaraguan SHG UCA: San Juan del Rio Coco](https://bergeron-roasters.square.site/product/organic-nicaraguan-shg-uca-san-juan-del-rio-coco-1lb/V4IKO32ODBFHIX3DGN7XUSNP): $20.00 — notes: Dark Chocolate, Brown Sugar
+- [Ethiopian Yirgacheffe Konga](https://bergeron-roasters.square.site/product/ethiopian-yirgacheffe-konga-1lb/UCOIFYDALAQKUO3P4JFFJ2IU): $20.00 — notes: Floral, Apricot
+- [Bean There T Shirt](https://www.bergeyscoffeeco.com/product/bean-there-t-shirt/18): $25–$30
+
+## Catering
+- Espresso Bar Package starting at $600: 2 hours of bottomless hot & iced drinks, personal barista, full menu (brewed coffee, specialty lattes, matcha, chai), syrups, sugars & milk alternatives, upscale cups & lids. Custom printed latte art (monograms to photo portraits). Larger events quoted on request.
